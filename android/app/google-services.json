@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "920605007907",
+    "project_id": "groupchatapp-1f8d9",
+    "storage_bucket": "groupchatapp-1f8d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920605007907:android:0461fa986b653e2ab61196",
+        "android_client_info": {
+          "package_name": "com.example.group_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920605007907-bfrbj607e219lhrfu4dsd81tj84jajg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.group_chat",
+            "certificate_hash": "996cbedeb02e137392e4587c184984a08f141e8c"
+          }
+        },
+        {
+          "client_id": "920605007907-1oinhq8i4njt7qdi6ol6neo5ihnldvj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMwLDqEHz3Tbc83ErjFJOQvqOOdWL_YcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920605007907-1oinhq8i4njt7qdi6ol6neo5ihnldvj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
